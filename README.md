@@ -15,7 +15,7 @@
       <td>
         <div style="display: flex;">
           <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankeer-28&layout=compact&theme=gotham" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankeer28&layout=compact&theme=gotham" />
           </a>
           <img src="https://media.tenor.com/HLrXIleGBToAAAAC/transparent-cat.gif" width="150" height="140">
         </div>
