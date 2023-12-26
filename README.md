@@ -23,10 +23,3 @@
 
 
 
-<!---profile generator  https://rahuldkjain.github.io/gh-profile-readme-generator/ --->
-<h3 align="center">
-  <a href="https://sankeer28.github.io">Portfolio: sankeer28.github.io</a>
-</h3>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
