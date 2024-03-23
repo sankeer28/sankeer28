@@ -10,16 +10,21 @@
 <!--- themes 
 [just](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md) --->
 <div align="center">
-        <div style="display: flex;">
-          <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankeer28&layout=compact&theme=gotham&hide_border=true&background=FFFFFF00" />
-          </a>
-        </div>
+         <a href="https://github.com/sankeer28">
+          <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sankeer28&show_icons=true&theme=gotham&hide_border=true&background=FFFFFF00&hide_title=true&hide_rank=true" />
+        </a>
+        <a href="https://github.com/sankeer28">
+          <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankeer28&layout=compact&theme=gotham&hide_border=true&background=FFFFFF00&langs_count=8" />
+        </a>
         <br>
         <!--- <img src="https://github-readme-stats.vercel.app/api?username=sankeer-28&show_icons=true&theme=gotham" />--->
 <!--text jokes- <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />--->
 
+
+
   ![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnowhideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
+
+ 
 </div>
 
 
