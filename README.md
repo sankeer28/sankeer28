@@ -28,9 +28,9 @@
 
 
 
-  ![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnowhideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
+<!--  ![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnowhideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)-->
 <!--matrix--  <img src="https://user-images.githubusercontent.com/40064496/120735130-6c9e2300-c4c0-11eb-8346-94429163466a.gif">--->
- 
+ [![GitHub Streak](https://streak-stats.demolab.com?user=sankeer28&theme=gotham&hide_border=true)](https://git.io/streak-stats)
 </div>
 
 
