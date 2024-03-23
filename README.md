@@ -5,7 +5,13 @@
 </p>
 
 
-<img src="https://giffiles.alphacoders.com/180/1808.gif">
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://giffiles.alphacoders.com/180/1808.gif" alt="Image 1" >
+    <img src="https://img1.picmix.com/output/stamp/normal/3/9/6/7/2387693_e8061.gif" alt="Image 2" width=100% height="100px">
+</div>
+
+
 
 <!--- themes 
 [just](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md) --->
@@ -23,7 +29,7 @@
 
 
   ![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnowhideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
-
+<!--matrix--  <img src="https://user-images.githubusercontent.com/40064496/120735130-6c9e2300-c4c0-11eb-8346-94429163466a.gif">--->
  
 </div>
 
