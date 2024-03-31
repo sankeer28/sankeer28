@@ -16,7 +16,7 @@
 </div>
 
 
-
+<hr>
 <!--- themes 
 [just](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md) --->
 <div align="center">
@@ -37,13 +37,16 @@
  [![GitHub Streak](https://streak-stats.demolab.com?user=sankeer28&theme=gotham&hide_border=true)](https://git.io/streak-stats)
 </div>
 
+<hr>
+
 <p align="center">
   <a href="https://github.com/sankeer28">
     <img src="https://skillicons.dev/icons?i=c,vim,html,css,arch,python,js,arduino,bash,discordjs,electron,elixir,emacs,figma,git,github,latex,ps,powershell,vscode,windows,ubuntu,linux,haskell,rust,pycharm,ai,bots,blender,npm" />
   </a>
 </p>
+<hr>
 <p align="center"><img src="https://raw.githubusercontent.com/sankeer28/sankeer28/manual-run-output/docker/github-contribution-grid-snake-dark.svg" ></p>
-
+<hr>
 
 
 
