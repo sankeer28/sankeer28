@@ -1,5 +1,5 @@
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sankeer28.sankeer28" />
+
 <p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"></p>
 
 
@@ -42,7 +42,6 @@
     <img src="https://skillicons.dev/icons?i=c,vim,html,css,arch,python,js,arduino,bash,discordjs,electron,elixir,emacs,figma,git,github,latex,ps,powershell,vscode,windows,ubuntu,linux,haskell,rust,pycharm,ai,bots,blender,npm" />
   </a>
 </p>
-
 
 
 
