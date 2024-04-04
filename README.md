@@ -9,13 +9,13 @@
 </p>
 
 
-
+<!--- gif
 <div style="display: flex; justify-content: space-between;">
     <img src="https://giffiles.alphacoders.com/180/1808.gif" alt="Image 1" >
 </div>
+--->
 
 
-<hr>
 <!--- themes 
 [just](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md) --->
 <div align="center">
@@ -45,7 +45,7 @@
 </p>
 <hr>
 <p align="center"><img src="https://raw.githubusercontent.com/sankeer28/sankeer28/manual-run-output/docker/github-contribution-grid-snake-dark.svg" ></p>
-<hr>
+
 
 
 
