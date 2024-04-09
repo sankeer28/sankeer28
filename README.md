@@ -46,9 +46,14 @@
 <hr>
 <p align="center"><img src="https://raw.githubusercontent.com/sankeer28/sankeer28/manual-run-output/docker/github-contribution-grid-snake-dark.svg" ></p>
 
+<hr>
 
 
-
+<div align="center">
+         <a href="https://github.com/sankeer28">
+          <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=sankeer28&theme=nord&no-bg=true" />
+        </a>
+</div>
 
 
 
