@@ -1,7 +1,7 @@
 
 
 <p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"></p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sankeer28&label=Profile%20views&color=lightgrey&style=for-the-badge&label=PROFILE+VIEWS" alt="sankeer28" /> </p>
 
 <meta name="google-site-verification" content="I0I3xj2yNnKMDNCW7vMHH_msME4KgTK5tAyx-msz7AI" />
 <p align="center">
