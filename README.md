@@ -46,7 +46,7 @@
 
 <div align="center">
          <a href="https://github.com/sankeer28">
-          <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=sankeer28&theme=nord&no-bg=true" />
+          <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=sankeer28&theme=nord&no-bg=true&rank=-C" />
         </a>
 </div>
 
