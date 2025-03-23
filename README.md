@@ -8,7 +8,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=27&pause=1000&color=1CC500&center=true&random=false&width=435&lines=Computer+Science+undergrad;Programmer;Developer;Active+Learner" alt="Typing SVG" /></a>
 </p>
 
-
 <!--- gif
 <div style="display: flex; justify-content: space-between;">
     <img src="https://giffiles.alphacoders.com/180/1808.gif" alt="Image 1" >
@@ -20,10 +19,9 @@
 [just](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md) --->
 <div align="center">
          <a href="https://github.com/sankeer28">
-          <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sankeer28&show_icons=true&theme=gotham&hide_border=true&background=FFFFFF00&hide_title=true&hide_rank=true" />
+          <img  align="center" src="https://pixel-profile.vercel.app/api/github-stats?username=sankeer28&screen_effect=true&theme=fuji" />
         </a>
         <a href="https://github.com/sankeer28">
-          <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankeer28&layout=compact&theme=gotham&hide_border=true&background=FFFFFF00&langs_count=8" />
         </a>
         <br>
         <!--- <img src="https://github-readme-stats.vercel.app/api?username=sankeer-28&show_icons=true&theme=gotham" />--->
