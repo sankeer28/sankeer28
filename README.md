@@ -17,7 +17,7 @@
 [just](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md) --->
 <div align="center">
          <a href="https://github.com/sankeer28">
-          <img  align="center" src="https://pixel-profile.vercel.app/api/github-stats?username=sankeer28&screen_effect=false&theme=road_trip&pixelate_avatar=false&hide=rank" />
+          <img  align="center" src="https://pixel-profile.vercel.app/api/github-stats?username=sankeer28&screen_effect=false&theme=road_trip&pixelate_avatar=false&hide=rank&include_all_commits=true" />
         </a>
         <a href="https://github.com/sankeer28">
         </a>
