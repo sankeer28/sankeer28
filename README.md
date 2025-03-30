@@ -32,14 +32,24 @@
 </div>
 
 <hr>
- 
+
+
+```java
+public class TechStack {
+    String[] languages  = {"Haskell", "LISP", "Rust", "C++", "Elixir", "C", "Smalltalk", "Python", "Java", "JavaScript", "AWK", "Bash", "SQL", "HTML/CSS"};
+    String[] tools      = {"Git", "Docker", "Emacs", "Linux/Unix", "IntelliJ", "Visual Studio Code", "PyCharm", "Eclipse", "Pandas", "Anaconda", "SQL Server", "Oracle", "Figma", "Jupyter Notebook", "Arduino IDE", "Pharo", "Adobe Photoshop", "WSL"};
+    String[] platforms  = {"Linux", "Ubuntu", "Arch", "Windows"};
+}
+```
+
+<!--
 <p align="center">
   <a href="https://github.com/sankeer28">
     <img src="https://skillicons.dev/icons?i=c,vim,html,css,arch,python,js,arduino,bash,discordjs,electron,elixir,emacs,figma,git,github,latex,ps,powershell,vscode,windows,ubuntu,linux,haskell,rust,pycharm,ai,bots,blender,npm" />
   </a>
 </p>
 <hr>
-
+--->
 <p align="center"><img src="https://raw.githubusercontent.com/sankeer28/sankeer28/manual-run-output/docker/github-contribution-grid-snake-dark.svg" ></p>
 
 
