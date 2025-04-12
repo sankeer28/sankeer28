@@ -38,7 +38,7 @@
 public class TechStack {
     String[] languages  = {"Haskell", "LISP", "Rust", "C++", "Elixir", "C", "Smalltalk", "Python", "Java", "JavaScript", "AWK", "Bash", "SQL", "HTML/CSS"};
     String[] tools      = {"Git", "Docker", "Emacs", "Linux/Unix", "IntelliJ", "Visual Studio Code", "PyCharm", "Eclipse", "Pandas", "Anaconda", "SQL Server", "Oracle", "Figma", "Jupyter Notebook", "Arduino IDE", "Pharo", "Adobe Photoshop", "WSL"};
-    String[] platforms  = {"Linux", "Ubuntu", "Arch", "Windows"};
+    String[] platforms  = {"Debian", "Ubuntu", "Arch", "Windows"};
 }
 ```
 
