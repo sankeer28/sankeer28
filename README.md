@@ -6,11 +6,11 @@
 <p align="center">
 </p>
 
-<!--- gif
+
 <div style="display: flex; justify-content: space-between;">
     <img src="https://giffiles.alphacoders.com/180/1808.gif" alt="Image 1" >
 </div>
---->
+
 
 <!--- themes 
 [just](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md) --->
